@@ -1,6 +1,5 @@
-#ifndef __BLOCK_H__
-#define __BLOCK_H__
-
+#ifndef __BLOCKS_H__
+#define __BLOCKS_H__
 #include "cocos2d.h"
 
 class BlockSprite : public cocos2d::Sprite
